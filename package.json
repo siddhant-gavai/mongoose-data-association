@@ -1,0 +1,27 @@
+{
+  "name": "mongoose-data-association",
+  "version": "1.0.0",
+  "description": "Examples of One-to-One, One-to-Many, and Many-to-Many relationships using Mongoose and Express.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "mongoose",
+    "mongodb",
+    "relationships",
+    "express",
+    "nodejs",
+    "backend"
+  ],
+  "author": "Siddhant Gavai",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
